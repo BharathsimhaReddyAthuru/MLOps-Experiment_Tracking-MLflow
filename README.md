@@ -2,10 +2,10 @@
 This project demonstrates how to use MLflow for tracking machine learning experiments
 
 ## What I Did
-1.Used datasets from scikit-learn - Wine dataset & Breast Cancer dataset
-2.Applied Random Forest Classifier
-3.Tracked experiments using MLflow
-4.Ran experiments: Locally (localhost) & Remotely using DagsHub
+1. Used datasets from scikit-learn - Wine dataset & Breast Cancer dataset
+2. Applied Random Forest Classifier
+3. Tracked experiments using MLflow
+4. Ran experiments: Locally (localhost) & Remotely using DagsHub
 
 ## Features
 ### Manual Logging (Wine Dataset)
